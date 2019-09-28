@@ -54,7 +54,7 @@ void printBar(uint8_t height)
 void calibrateSensors()
 {
   lcd.clear();
-
+//test
   // Wait 1 second and then begin automatic sensor calibration
   // by rotating in place to sweep the sensors over the line
   delay(1000);
